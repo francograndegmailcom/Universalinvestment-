@@ -13,5 +13,5 @@ real investment projects that being funded without this software would be unaffo
 Supporters:
 _Software code Programmers and companies that can send an order to discreet and effectively buy or sell products on the main capital markets of the world.
 _Lawyers from developed and undeveloped countries who know to obtain permissions and licenses to, send above-mentioned software-generated orders, and create legal entities.
-_Economists and Business Men, Lawyers, who may be able to identity negative sinergies, conflicts of interests, high kick-off costs, impoverishing asymmetric information, Property
+_Economists and Business Men, Lawyers, who may be able to identify negative sinergies, conflicts of interests, high kick-off costs, impoverishing asymmetric information, Property
 Rights that are poorly defined, thence generate under or over-investment.
